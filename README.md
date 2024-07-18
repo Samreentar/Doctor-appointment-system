@@ -1,10 +1,10 @@
-##Doctor Appointment Management System
+***Doctor Appointment Management System***
 The Doctor Appointment Management System is a comprehensive web-based application designed to simplify the process of scheduling, managing, and monitoring doctor appointments. This system is developed using HTML, CSS, and JavaScript for the front end, and PHP and MySQL for the back end, ensuring robust and dynamic interaction between users and the server.
 
-Overview
+**Overview**
 The primary goal of this system is to enhance the efficiency and convenience of booking and managing appointments for both patients and doctors. Here’s a detailed breakdown of the functionalities and workflow of the system:
 
-Features
+***Features***
 Home Page
 Provides an introduction to the system and navigation links to other pages.
 
